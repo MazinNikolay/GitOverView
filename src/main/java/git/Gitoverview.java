@@ -19,6 +19,6 @@ public class Gitoverview {
     }
 
     public boolean itsNew(){
-        return(this.ig==null);
+        return(this.ig==0);
     }
 }
